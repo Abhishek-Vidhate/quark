@@ -1,4 +1,5 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env zsh 
+# replace this with your preferred terminal Shell, i prefer zsh
 
 if [[ -z "$1" ]]; then
   printf "\e[0;31mERROR: project name required\e[0m\n"
